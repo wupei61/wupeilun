@@ -28,7 +28,7 @@ href="https://chat.openai.com/auth/login">技術諮詢</a>
  <td>王 O 仁</td>
  </tr>
 </table><br>
-<img src="1.jpg"></img>
+<img src="k.jpg"></img>
 <img src="II_1.jpg"></img>
 <img src="II_2.jpg"></img>
 <img src="II_3.jpg" style="display:block; margin:auto;" ></img># wupeilun
